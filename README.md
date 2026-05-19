@@ -16,4 +16,8 @@ Then import the SDK:
 import PayOS
 ```
 
-Access to this private package requires GitHub read access to `payos-inc/payos-ios`.
+## License
+
+This SDK is proprietary PayOS software. Use is permitted only under a written
+PayOS customer or partner agreement. See [LICENSE.md](./LICENSE.md).
+
