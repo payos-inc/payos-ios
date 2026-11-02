@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PayOS",
-            url: "https://github.com/payos-inc/payos-ios/releases/download/0.2.0/PayOS.xcframework.zip",
-            checksum: "bbfba90058eb62ef11ae0d7fbb3fc01c281f139acc967270af83bcf01e90c993"
+            url: "https://github.com/payos-inc/payos-ios/releases/download/0.3.0/PayOS.xcframework.zip",
+            checksum: "ff804c2a8d564234dd934f38fc9d9ba7f246c0ce700da1cb82ebbb2bfb761779"
         ),
     ]
 )
