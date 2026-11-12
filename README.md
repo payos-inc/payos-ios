@@ -7,7 +7,7 @@ Native iOS SDK for PayOS.
 Add the package with Swift Package Manager:
 
 ```swift
-.package(url: "https://github.com/payos-inc/payos-ios.git", from: "0.3.0-staging.17.1")
+.package(url: "https://github.com/payos-inc/payos-ios.git", from: "0.3.0-staging.19.1")
 ```
 
 Then import the SDK:
